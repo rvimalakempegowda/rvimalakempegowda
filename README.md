@@ -2,7 +2,7 @@
 
 I’m a full‑stack developer and lifelong learner who loves building useful applications that make people’s lives better. My work spans modern web frameworks, backend APIs and machine learning experiments. On GitHub you’ll find projects ranging from responsive React/Next.js web apps to data‑driven dashboards and reinforcement‑learning agents. 
 
-- 💼 **Currently seeking:** Full-stack developer roles – applying my skills in React, Next.js, Node.js and Python to build scalable web application💼 *
+- 🌟 **Currently seeking:** Full-stack developer roles – applying my skills in React, Next.js, Node.js and Python to build scalable web applications.
 - 🤠 **Exploring:** reinforcement learning, large‑language models and data visualization.
 - 🤝 **Open to collaborate on:** open‑source projects, web/ML prototypes, and research collaborations.
 - 📨 **Reach me at:** [LinkedIn](https://www.linkedin.com/in/revanth-gowda) • [Portfolio](https://github.com/rvimalakempegowda/revanth-gowda-portfolio-site) • [Email](mailto:your.email@example.com)
