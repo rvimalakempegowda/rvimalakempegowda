@@ -5,7 +5,7 @@ I’m a full‑stack developer and lifelong learner who loves building useful ap
 - 🌟 **Currently seeking:** Full-stack developer roles – applying my skills in React, Next.js, Node.js and Python to build scalable web applications.
 - 🤠 **Exploring:** reinforcement learning, large‑language models and data visualization.
 - 🤝 **Open to collaborate on:** open‑source projects, web/ML prototypes, and research collaborations.
-- 📨 **Reach me at:** [LinkedIn](https://www.linkedin.com/in/revanth-gowda) • [Portfolio](https://github.com/rvimalakempegowda/revanth-gowda-portfolio-site) • [Email](mailto:your.email@example.com)
+- 📨 **Reach me at:** [LinkedIn](https://www.linkedin.com/in/revanth-gowda-vimala-kempegowda/) • [Portfolio](https://github.com/rvimalakempegowda/revanth-gowda-portfolio-site) • [Email](mailto:rvimalakempegowda@gmail.com)
 
 ## 🚀 Tech Stack
 
@@ -37,21 +37,4 @@ Here are a few highlights of what I’ve been working on. You can explore more r
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rvimalakempegowda&theme=default&hide_border=true" alt="GitHub Streak" width="95%"/>
 </p>
 
-## 📜 Pinned repositories
 
-You can pin repositories on your GitHub profile to showcase your best work. Based on my current portfolio, I recommend pinning:
-
-1. **Amazon_clone** – demonstrates full‑stack development skills.
-2. **React_Food_App** – highlights frontend expertise and real‑time database integration.
-3. **each_stock_earning_date** – shows data scraping and analysis with Python.
-4. **reinforcement_Learning_A2C** – exhibits machine learning and RL experimentation.
-
-## 💡 Best Practices
-
-To keep this profile effective:
-
-- Update the “Current focus” section as your interests evolve. Regularly refresh pinned projects so visitors see your latest work.
-- Keep your personal site/portfolio and LinkedIn links up to date. Include a contact email or portfolio link so people can reach you easily.
-- Use a consistent and clean layout with clear sections, and avoid overwhelming readers with too much text.
-
-    Thanks for stopping by! ✨
